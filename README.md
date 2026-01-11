@@ -14,7 +14,7 @@ Hosted on AWS using:
 ## Architecture Diagrams
 
 ### Static Website on AWS
-![Static Website Architecture](diagrams/s3-cloudfront-route53.png)
+![Static Website Architecture](diagrams/static-website-cloudfront-distribution.png)
 
 ### Serverless REST API
 ![Serverless REST API Architecture](diagrams/serverless-rest-api.png)
